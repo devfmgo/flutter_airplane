@@ -19,13 +19,13 @@ Color kInactiveColor = Color(0xffDBD7EC);
 TextStyle blackTextStyle = GoogleFonts.poppins(
   color: kBlackColor,
 );
-TextStyle whitekTextStyle = GoogleFonts.poppins(
+TextStyle whiteTextStyle = GoogleFonts.poppins(
   color: kWhiteColor,
 );
 TextStyle greyTextStyle = GoogleFonts.poppins(
   color: kGreyColor,
 );
-TextStyle greenkTextStyle = GoogleFonts.poppins(
+TextStyle greenTextStyle = GoogleFonts.poppins(
   color: kGreenColor,
 );
 TextStyle redTextStyle = GoogleFonts.poppins(

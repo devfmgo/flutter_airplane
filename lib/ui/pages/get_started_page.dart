@@ -25,7 +25,7 @@ class GetStartedPage extends StatelessWidget {
               children: [
                 Text(
                   'Fly Like a Bird',
-                  style: whitekTextStyle.copyWith(
+                  style: whiteTextStyle.copyWith(
                     fontSize: 32,
                     fontWeight: semiBold,
                   ),
@@ -33,7 +33,7 @@ class GetStartedPage extends StatelessWidget {
                 SizedBox(height: 10),
                 Text(
                   'Explore new world with us and let\n your self get an amazing experiences',
-                  style: whitekTextStyle.copyWith(
+                  style: whiteTextStyle.copyWith(
                     fontSize: 16,
                     fontWeight: light,
                   ),
@@ -58,7 +58,7 @@ class GetStartedPage extends StatelessWidget {
                     ),
                     child: Text(
                       'Get Started',
-                      style: whitekTextStyle.copyWith(
+                      style: whiteTextStyle.copyWith(
                           fontSize: 18, fontWeight: medium),
                     ),
                   ),

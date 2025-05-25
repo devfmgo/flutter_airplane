@@ -178,7 +178,7 @@ class SignUpPage extends StatelessWidget {
             ),
             child: Text(
               'Get Started',
-              style: whitekTextStyle.copyWith(
+              style: whiteTextStyle.copyWith(
                 fontSize: 18,
                 fontWeight: medium,
               ),

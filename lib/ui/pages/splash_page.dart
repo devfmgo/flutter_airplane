@@ -46,7 +46,7 @@ class _SplashPageState extends State<SplashPage> {
             ),
             Text(
               "AIRPLANE",
-              style: whitekTextStyle.copyWith(
+              style: whiteTextStyle.copyWith(
                 fontSize: 32,
                 fontWeight: medium,
                 letterSpacing: 10,

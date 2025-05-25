@@ -33,13 +33,13 @@ class BonusPage extends StatelessWidget {
                     children: [
                       Text(
                         'Name',
-                        style: whitekTextStyle.copyWith(
+                        style: whiteTextStyle.copyWith(
                           fontWeight: light,
                         ),
                       ),
                       Text(
                         'Kezia Anee',
-                        style: whitekTextStyle.copyWith(
+                        style: whiteTextStyle.copyWith(
                           fontSize: 20,
                           fontWeight: medium,
                         ),
@@ -60,7 +60,7 @@ class BonusPage extends StatelessWidget {
                 ),
                 Text(
                   'Pay',
-                  style: whitekTextStyle.copyWith(
+                  style: whiteTextStyle.copyWith(
                     fontSize: 16,
                     fontWeight: medium,
                   ),
@@ -70,14 +70,14 @@ class BonusPage extends StatelessWidget {
             SizedBox(height: 41),
             Text(
               'Balance',
-              style: whitekTextStyle.copyWith(
+              style: whiteTextStyle.copyWith(
                 fontSize: 16,
                 fontWeight: light,
               ),
             ),
             Text(
               'IDR 280.000.000',
-              style: whitekTextStyle.copyWith(
+              style: whiteTextStyle.copyWith(
                 fontSize: 26,
                 fontWeight: medium,
               ),
@@ -131,7 +131,7 @@ class BonusPage extends StatelessWidget {
           ),
           child: Text(
             'Start Fly Now',
-            style: whitekTextStyle.copyWith(
+            style: whiteTextStyle.copyWith(
               fontSize: 18,
               fontWeight: medium,
             ),
