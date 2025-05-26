@@ -14,24 +14,24 @@ Color kGreenColor = Color(0xff0EC3AE);
 Color kRedColor = Color(0xffEB70A5);
 Color kBackgroundColor = Color(0xffFAFAFA);
 Color kInactiveColor = Color(0xffDBD7EC);
-
+Color kTransparentColor = Colors.transparent;
 // Text Style Color
-TextStyle blackTextStyle = GoogleFonts.poppins(
+TextStyle blackTextStyle = GoogleFonts.inter(
   color: kBlackColor,
 );
-TextStyle whiteTextStyle = GoogleFonts.poppins(
+TextStyle whiteTextStyle = GoogleFonts.inter(
   color: kWhiteColor,
 );
-TextStyle greyTextStyle = GoogleFonts.poppins(
+TextStyle greyTextStyle = GoogleFonts.inter(
   color: kGreyColor,
 );
-TextStyle greenTextStyle = GoogleFonts.poppins(
+TextStyle greenTextStyle = GoogleFonts.inter(
   color: kGreenColor,
 );
-TextStyle redTextStyle = GoogleFonts.poppins(
+TextStyle redTextStyle = GoogleFonts.inter(
   color: kRedColor,
 );
-TextStyle purpleTextStyle = GoogleFonts.poppins(
+TextStyle purpleTextStyle = GoogleFonts.inter(
   color: kPrimaryColor,
 );
 
